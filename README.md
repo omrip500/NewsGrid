@@ -2,6 +2,10 @@
 
 Welcome to NewsGrid! This project showcases advanced use of CSS Grid through a news website built solely with HTML and CSS.
 
+## Deployment
+
+The website is deployed and accessible at [https://omri-edgeledger.netlify.app/](https://omrinewsgrid.netlify.app/)
+
 
 ## Description
 
