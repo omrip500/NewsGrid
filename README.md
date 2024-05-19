@@ -4,7 +4,7 @@ Welcome to NewsGrid! This project showcases advanced use of CSS Grid through a n
 
 ## Deployment
 
-The website is deployed and accessible at [https://omri-edgeledger.netlify.app/](https://omrinewsgrid.netlify.app/)
+The website is deployed and accessible at [https://omrinewsgrid.netlify.app/](https://omrinewsgrid.netlify.app/)
 
 
 ## Description
